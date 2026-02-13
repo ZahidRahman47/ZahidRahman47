@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Zahid Rahman
 
-Welcome to my GitHub profile! I'm a passionate Frontend Developer with a keen interest in blockchain technology. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a **Results-driven Frontend Developer with 5+ years of experience** in React, Next.js, and **Web3 development (Web3.js, Wagmi)**, passionate about building scalable, user-centric, and production-ready applications.
 
-- 👀 I’m interested in innovative technologies and their real-world applications.
-- 🌱 I’m currently learning about blockchain and its various implementations.
-- 💞️ I’m looking to collaborate on blockchain projects for learning purposes and to contribute to the blockchain community.
-- 📫 How to reach me: codewithxohii@gmail.com
+### 🚀 About Me
 
-Feel free to explore my repositories and don't hesitate to reach out if you share similar interests or have exciting blockchain projects to collaborate on. Let's learn and build together!
+* 👀 Interested in innovative technologies and real-world problem solving.
+* 🌱 Continuously exploring **blockchain ecosystems, smart contracts, and Web3 integrations**.
+* 💞️ Open to collaborating on **Web3 and frontend-focused projects** that create meaningful impact.
+* 📫 Reach me at: **[codewithxohii@gmail.com](mailto:codewithxohii@gmail.com)**
+
+Feel free to explore my repositories—and if you're working on something exciting in **React or Web3**, let’s connect and build together!
